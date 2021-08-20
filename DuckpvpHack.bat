@@ -1,3 +1,5 @@
+#this file is an executable file (windows 10)
+
 @echo off
 color 57
 echo are you sure to execute this file? (only answer in yes or no)
