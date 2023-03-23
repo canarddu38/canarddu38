@@ -3,7 +3,7 @@
 
 ## :bomb:  Current projects
 - <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a miltiplatform hacking tool based on reverse shell technology
-- <a href="https://github.com/duckpvpteam/cs-gui-builder">C# gui builder</a>, the first C# application online no code builder
+- <a href="https://github.com/duckpvpteam/cs-gui-builder">DT App builder</a>, the first online application no code builder
 ## :orange_book:  What I'm currently learning
 - Cyber-security
 
