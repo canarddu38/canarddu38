@@ -1,5 +1,5 @@
 # :wave:, I'm @Canarddu38.
- I'm a :fr: hacker :sunglasses:, I know **C#**, **☕ JAVA**, **🐘 PHP**, **⚙ POWERSHELL** and **JS**
+ I'm a 🇫🇷 hacker :sunglasses:, I know **C#** **C and C++**, **☕ JAVA**, **🐘 PHP**, **⚙ POWERSHELL** and more
 
 ## :bomb:  Current projects
 - <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a miltiplatform hacking tool based on reverse shell technology
