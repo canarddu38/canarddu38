@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Canarddu38 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/canarddu38/canarddu38/assets/71982379/d434f0bd-bd1b-4ace-ad69-7bd7060b14be" width = 50px></picture> **About me**
+## <picture><img src ="https://github.com/canarddu38/canarddu38/assets/71982379/d434f0bd-bd1b-4ace-ad69-7bd7060b14be" width = 50px></picture> **About me**
 
  
 - **Languages**:
@@ -13,9 +13,8 @@
     ![Batch/Bash](https://img.shields.io/badge/batch-bash%20-%23262626.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   </br>
     ![Java](https://img.shields.io/badge/Java%20-%23ffb300.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![B](https://img.shields.io/badge/php%20-%23 8a6df2.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![B](https://img.shields.io/badge/php%20-%23 8a6df2.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php%20-%23 8a6df2.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Powershell](https://img.shields.io/badge/Powershell%20-%23306dfc.svg?style=for-the-badge&logo=powershell&logoColor=white)
+    ![ARM ASM](https://img.shields.io/badge/arm%20asm%20-%238a6df2.svg?style=for-the-badge&logo=arm&logoColor=white)
 
 <br>   
     
@@ -30,14 +29,18 @@
 
 
 - **Current projects**:
-- <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a miltiplatform hacking tool based on reverse shell technology
-- <a href="https://github.com/4RE5Team/cs-gui-builder">DT App builder</a>, the first online application no code builder
-- <a href="https://github.com/4RE5Team/D3M0N-X1">D3M0N-X1</a>, multifuction hacking device
+
+   <picture><img src ="https://raw.githubusercontent.com/canarddu38/DUCKSPLOIT/root/images/icon-nobg.png" width = 20px></picture> <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a miltiplatform **hacking tool** based on reverse shell technology
+
+   <picture><img src ="https://github.com/4RE5Team/dtappbuilder/blob/main/favicon.png?raw=true" width = 20px></picture> <a href="https://github.com/4RE5Team/dtappbuilder">DT App builder</a>, the **first** online application **no code builder**
+
+   <picture><img src ="https://avatars.githubusercontent.com/u/136185636?s=48&v=4" width = 20px></picture> <a href="https://github.com/d3m0n-project/d3m0n_c1">d3m0n_c1</a>, the first **cell phone** made **for hackers**
 
 
 - **Github stats**:
-<img src="https://github-readme-stats.vercel.app/api?username=canarddu38&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=canarddu38&theme=vue-dark&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canarddu38&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
+
+   <img src="https://github-readme-stats.vercel.app/api?username=canarddu38&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarddu38&theme=vue-dark&hide_border=false"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canarddu38&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/>
 
 -----
