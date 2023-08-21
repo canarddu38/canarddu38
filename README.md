@@ -26,7 +26,7 @@
 
 <br>
 
-
+![Visitors](https://komarev.com/ghpvc/?username=canarddu38&color=red&style=for-the-badge)
 
 - **Current projects**:
 
