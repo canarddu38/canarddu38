@@ -31,7 +31,7 @@
 
 - **Current projects**:
 
-   <picture><img src ="https://raw.githubusercontent.com/canarddu38/DUCKSPLOIT/root/images/icon-nobg.png" width = 20px></picture> <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a miltiplatform **hacking tool** based on reverse shell technology
+   <picture><img src ="https://raw.githubusercontent.com/canarddu38/DUCKSPLOIT/root/images/icon-nobg.png" width = 20px></picture> <a href="https://github.com/canarddu38/DUCKSPLOIT">DuckSploit</a>, a multiplatform **hacking tool** based on reverse shell technology
 
    <picture><img src ="https://github.com/4RE5Team/dtappbuilder/blob/main/favicon.png?raw=true" width = 20px></picture> <a href="https://github.com/4RE5Team/dtappbuilder">DT App builder</a>, the **first** online application **no code builder**
 
