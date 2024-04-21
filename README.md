@@ -15,6 +15,7 @@
     ![Java](https://img.shields.io/badge/Java%20-%23ffb300.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Powershell](https://img.shields.io/badge/Powershell%20-%23306dfc.svg?style=for-the-badge&logo=powershell&logoColor=white)
     ![ARM ASM](https://img.shields.io/badge/arm%20asm%20-%238a6df2.svg?style=for-the-badge&logo=arm&logoColor=white)
+    ![Ruby](https://img.shields.io/badge/Ruby%20-%23ff0000.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 <br>   
     
