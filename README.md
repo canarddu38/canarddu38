@@ -5,9 +5,11 @@
  
 - **Languages**:
 
-    ![C#](https://img.shields.io/badge/c%23%20-%2302571e.svg?style=for-the-badge&logo=csharp&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/c%23%20-%2302571e.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![Basic](https://img.shields.io/badge/Basic%20-%2311635b.svg?style=for-the-badge&logo=Bricks%2B%2B&logoColor=white)
+    ![Perl](https://img.shields.io/badge/Perl%20-%23173a73.svg?style=for-the-badge&logo=perl%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/php%20-%238a6df2.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Batch/Bash](https://img.shields.io/badge/batch-bash%20-%23262626.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
