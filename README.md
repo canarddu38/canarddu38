@@ -45,3 +45,7 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarddu38&theme=tokyonight" alt="mystreak"/>
 
 -----
+
+- **Hackatime stats**:
+  
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7065&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
