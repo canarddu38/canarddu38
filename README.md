@@ -40,7 +40,7 @@
    <picture><img src ="https://avatars.githubusercontent.com/u/136185636?s=48&v=4" width = 20px></picture> <a href="https://github.com/d3m0n-project/d3m0n_c1">d3m0n_c1</a>, the first **cell phone** made **for hackers**
 
 
-- **Github stats**:
+- **Github stats**: 
 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarddu38&theme=tokyonight" alt="mystreak"/>
 
