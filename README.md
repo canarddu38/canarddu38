@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Canarddu38 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <picture><img src ="https://github.com/canarddu38/canarddu38/assets/71982379/d434f0bd-bd1b-4ace-ad69-7bd7060b14be" width = 50px></picture> **About me**
-
+ 
  
 - **Languages**:
 
