@@ -2,7 +2,7 @@
 
 ## <picture><img src ="https://github.com/canarddu38/canarddu38/assets/71982379/d434f0bd-bd1b-4ace-ad69-7bd7060b14be" width = 50px></picture> **About me**
  
-  
+   
 - **Languages**:
 
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
