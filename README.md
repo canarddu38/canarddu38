@@ -65,12 +65,13 @@ Currently studying at **42**, focusing on **systems, low-level programming, and 
 
 ![Visitors](https://komarev.com/ghpvc/?username=canarddu38&color=red&style=for-the-badge)
 
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canarddu38&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canarddu38" alt="GitHub Streak Stats" />
 </p>
 
 ---
