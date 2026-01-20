@@ -59,7 +59,7 @@ Currently studying at **42**, focusing on **systems, low-level programming, and 
   <img src="https://img.shields.io/badge/HackTheBox-%239fef00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
 </a>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jules-clement-massonnat)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-clement-massonnat)
 
 
 
