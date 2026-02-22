@@ -48,9 +48,9 @@ Currently studying at **42**, focusing on **systems, low-level programming, and 
 ## 🚀 Current Projects
 
 - <img src="https://raw.githubusercontent.com/canarddu38/DUCKSPLOIT/root/images/icon-nobg.png" width="20"/> **[DuckSploit](https://github.com/canarddu38/DUCKSPLOIT)** — a cross-platform **hacking framework** based on reverse-shell technology
-- <img src="https://github.com/4RE5group/4re5group.github.io/blob/main/favicon.png?raw=true" width="20"/> **[Virtual Arch](https://github.com/4RE5group/virtualArch)** — a complete **computer architecture** emulated in pure javascript :fire:
+- <img src="https://github.com/4RE5group/4re5group.github.io/blob/main/favicon.png?raw=true" width="20"/> **[Virtual Arch](https://github.com/4RE5group/virtualArch)** — a complete virtual **computer architecture** emulated in pure javascript :fire:
 - <img src="https://avatars.githubusercontent.com/u/136185636?s=48&v=4" width="20"/> **[d3m0n_c1](https://github.com/d3m0n-project/d3m0n_c1)** — the **first phone made for hackers**
-
+- <img src="https://github.com/4RE5group/4re5group.github.io/blob/main/favicon.png?raw=true" width="20"/> **[4re5 decompiler](https://github.com/4RE5group/4re5-decompiler)** — an opensource binary decompiler
 ---
 
 ## 🧩 Connect with Me
