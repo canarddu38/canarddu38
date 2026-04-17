@@ -11,7 +11,7 @@ Currently studying at **42**, focusing on **systems, low-level programming, and 
 
 🌍 I speak:
 🇫🇷 French (native) • 🇬🇧 English (B2) • 🇩🇪 German (B1) • 🇷🇺 Russian (A2)
-   
+
 ---
 
 ## ⚙️ Languages & Technologies
