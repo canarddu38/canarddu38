@@ -59,7 +59,7 @@ Currently studying at **42**, focusing on **systems, low-level programming, and 
 
 ## 🧩 Connect with Me
 
-<a href="https://app.hackthebox.com/profile/1054071">
+<a href="https://app.hackthebox.com/users/1054071">
   <img src="https://img.shields.io/badge/HackTheBox-%239fef00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox">
 </a>
 
