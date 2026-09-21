@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-I’ve been passionate about coding for almost **a decade** — I started with Scratch at school, moved on to C++, Python and C# at home, and never stopped since.  
+I’ve been passionate about coding for almost **a decade** - I started with Scratch at school, moved on to C++, Python and C# at home, and never stopped since.  
 I dream of creating my own software company to push the limits of computer science and make technology more powerful, customisable and accessible.  
 Currently studying at **42**, focusing on **systems, low-level programming, and cybersecurity**.
 
