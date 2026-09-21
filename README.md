@@ -9,8 +9,15 @@ I’ve been passionate about coding for almost **a decade** — I started with S
 I dream of creating my own software company to push the limits of computer science and make technology more powerful, customisable and accessible.  
 Currently studying at **42**, focusing on **systems, low-level programming, and cybersecurity**.
 
-🌍 I speak:
-🇫🇷 French (native) • 🇬🇧 English (B2) • 🇩🇪 German (B1) • 🇷🇺 Russian (A2)
+####  🌍 I speak:
+- 🇫🇷 French (native)
+- 🇬🇧 English (B2)
+- 🇩🇪 German (B1)
+- 🇷🇺 Russian (A2)
+
+#### 🎓 Currently preparing qualifications:
+- RNCP-39774 (Level 7, IT Architecture Expert)
+- EasyEDA Professional Certificate (PCB design and electronics)
 
 ---
 
